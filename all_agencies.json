@@ -1,0 +1,812 @@
+[
+  {
+      "AGENCES": "ABBEVILLE",
+      "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+  },
+  {
+      "AGENCES": "ABBEVILLE LEJEUNE",
+      "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+  },
+  {
+      "AGENCES": "ACHERES",
+      "Adresse_mail": "fr-courtiers-pro-dcr-mantes-vallee-de-seine@socgen.com"
+  },
+  {
+      "AGENCES": "AGAY",
+      "Adresse_mail": "fr-courtiers-pro-dcr-toulon@socgen.com"
+  },
+  {
+      "AGENCES": "AGDE",
+      "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+  },
+  {
+      "AGENCES": "AGDE RUE GRAND CAP",
+      "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+  },
+  {
+      "AGENCES": "AGEN",
+      "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+  },
+  {
+      "AGENCES": "AGEN SUD",
+      "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+  },
+  {
+      "AGENCES": "AGEN WILSON",
+      "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+  },
+  {
+      "AGENCES": "AGENCE DIRECTE",
+      "Adresse_mail": "fr-courtiers-pro-dcr-bobigny@socgen.com"
+  },
+  {
+      "AGENCES": "AIGUES MORTES",
+      "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+  },
+  {
+      "AGENCES": "AIRE SUR LA LYS",
+      "Adresse_mail": "fr-courtiers-pro-dcr-arras@socgen.com"
+  },
+  {
+      "AGENCES": "AIX COURS SEXTIUS",
+      "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+  },
+  {
+      "AGENCES": "AIX EN PROV PUYRICARD",
+      "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+  },
+  {
+      "AGENCES": "AIX EN PROVENCE",
+      "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+  },
+  {
+      "AGENCES": "AIX EN PROVENCE LUYNES",
+      "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+  },
+  {
+      "AGENCES": "AIX EN PROVENCE MIRABEAU",
+      "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+  },
+  {
+      "AGENCES": "AIX EN PROVENCE OUEST",
+      "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+  },
+  {
+      "AGENCES": "AIX EN PROVENCE PASTEUR",
+      "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+  },
+  {
+      "AGENCES": "AIX EN PROVENCE RAFLE",
+      "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+  },
+  {
+      "AGENCES": "AIX LA PIOLINE",
+      "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+  },
+  {
+      "AGENCES": "AIX LES BAINS",
+      "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+  },
+  {
+      "AGENCES": "AIX LES BAINS CARNOT",
+      "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+  },
+  {
+      "AGENCES": "AIX LES MILLES",
+      "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+  },
+  {
+      "AGENCES": "AIX MIRABEAU",
+      "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+  },
+  {
+      "AGENCES": "AIX PROV LES MILLES",
+      "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+  },
+  {
+      "AGENCES": "AIX SEXTIUS",
+      "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+  },
+  {
+      "AGENCES": "AIXE SUR VIENNE",
+      "Adresse_mail": "fr-courtiers-pro-dcr-limoges@socgen.com"
+  },
+  {
+      "AGENCES": "AJACCIO",
+      "Adresse_mail": "fr-courtiers-pro-dcr-corse@socgen.com"
+  },
+  {
+      "AGENCES": "AJACCIO CASTEL VECCHIO",
+      "Adresse_mail": "fr-courtiers-pro-dcr-corse@socgen.com"
+  },
+  {
+      "AGENCES": "ALBERT",
+      "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+  },
+  {
+      "AGENCES": "ALBERT GAMBETTA",
+      "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+  },
+  {
+      "AGENCES": "ALBERTVILLE",
+      "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+  },
+  {
+      "AGENCES": "ALBERTVILLE GRENETTE",
+      "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},{
+  "AGENCES": "ABBEVILLE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ABBEVILLE LEJEUNE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ACHERES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-mantes-vallee-de-seine@socgen.com"
+},
+{
+  "AGENCES": "AGAY",
+  "Adresse_mail": "fr-courtiers-pro-dcr-toulon@socgen.com"
+},
+{
+  "AGENCES": "AGDE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+},
+{
+  "AGENCES": "AGDE RUE GRAND CAP",
+  "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+},
+{
+  "AGENCES": "AGEN",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+},
+{
+  "AGENCES": "AGEN SUD",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+},
+{
+  "AGENCES": "AGEN WILSON",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+},
+{
+  "AGENCES": "AGENCE DIRECTE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bobigny@socgen.com"
+},
+{
+  "AGENCES": "AIGUES MORTES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+},
+{
+  "AGENCES": "AIRE SUR LA LYS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-arras@socgen.com"
+},
+{
+  "AGENCES": "AIX COURS SEXTIUS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROV PUYRICARD",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE LUYNES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE MIRABEAU",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE OUEST",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE PASTEUR",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE RAFLE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX LA PIOLINE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX LES BAINS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},
+{
+  "AGENCES": "AIX LES BAINS CARNOT",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},
+{
+  "AGENCES": "AIX LES MILLES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX MIRABEAU",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX PROV LES MILLES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX SEXTIUS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIXE SUR VIENNE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-limoges@socgen.com"
+},
+{
+  "AGENCES": "AJACCIO",
+  "Adresse_mail": "fr-courtiers-pro-dcr-corse@socgen.com"
+},
+{
+  "AGENCES": "AJACCIO CASTEL VECCHIO",
+  "Adresse_mail": "fr-courtiers-pro-dcr-corse@socgen.com"
+},
+{
+  "AGENCES": "ALBERT",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ALBERT GAMBETTA",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ALBERTVILLE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},
+{
+  "AGENCES": "ALBERTVILLE GRENETTE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},{
+  "AGENCES": "ABBEVILLE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ABBEVILLE LEJEUNE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ACHERES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-mantes-vallee-de-seine@socgen.com"
+},
+{
+  "AGENCES": "AGAY",
+  "Adresse_mail": "fr-courtiers-pro-dcr-toulon@socgen.com"
+},
+{
+  "AGENCES": "AGDE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+},
+{
+  "AGENCES": "AGDE RUE GRAND CAP",
+  "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+},
+{
+  "AGENCES": "AGEN",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+},
+{
+  "AGENCES": "AGEN SUD",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+},
+{
+  "AGENCES": "AGEN WILSON",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+},
+{
+  "AGENCES": "AGENCE DIRECTE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bobigny@socgen.com"
+},
+{
+  "AGENCES": "AIGUES MORTES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+},
+{
+  "AGENCES": "AIRE SUR LA LYS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-arras@socgen.com"
+},
+{
+  "AGENCES": "AIX COURS SEXTIUS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROV PUYRICARD",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE LUYNES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE MIRABEAU",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE OUEST",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE PASTEUR",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE RAFLE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX LA PIOLINE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX LES BAINS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},
+{
+  "AGENCES": "AIX LES BAINS CARNOT",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},
+{
+  "AGENCES": "AIX LES MILLES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX MIRABEAU",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX PROV LES MILLES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX SEXTIUS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIXE SUR VIENNE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-limoges@socgen.com"
+},
+{
+  "AGENCES": "AJACCIO",
+  "Adresse_mail": "fr-courtiers-pro-dcr-corse@socgen.com"
+},
+{
+  "AGENCES": "AJACCIO CASTEL VECCHIO",
+  "Adresse_mail": "fr-courtiers-pro-dcr-corse@socgen.com"
+},
+{
+  "AGENCES": "ALBERT",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ALBERT GAMBETTA",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ALBERTVILLE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},
+{
+  "AGENCES": "ALBERTVILLE GRENETTE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},{
+  "AGENCES": "ABBEVILLE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ABBEVILLE LEJEUNE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ACHERES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-mantes-vallee-de-seine@socgen.com"
+},
+{
+  "AGENCES": "AGAY",
+  "Adresse_mail": "fr-courtiers-pro-dcr-toulon@socgen.com"
+},
+{
+  "AGENCES": "AGDE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+},
+{
+  "AGENCES": "AGDE RUE GRAND CAP",
+  "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+},
+{
+  "AGENCES": "AGEN",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+},
+{
+  "AGENCES": "AGEN SUD",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+},
+{
+  "AGENCES": "AGEN WILSON",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+},
+{
+  "AGENCES": "AGENCE DIRECTE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bobigny@socgen.com"
+},
+{
+  "AGENCES": "AIGUES MORTES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+},
+{
+  "AGENCES": "AIRE SUR LA LYS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-arras@socgen.com"
+},
+{
+  "AGENCES": "AIX COURS SEXTIUS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROV PUYRICARD",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE LUYNES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE MIRABEAU",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE OUEST",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE PASTEUR",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE RAFLE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX LA PIOLINE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX LES BAINS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},
+{
+  "AGENCES": "AIX LES BAINS CARNOT",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},
+{
+  "AGENCES": "AIX LES MILLES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX MIRABEAU",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX PROV LES MILLES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX SEXTIUS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIXE SUR VIENNE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-limoges@socgen.com"
+},
+{
+  "AGENCES": "AJACCIO",
+  "Adresse_mail": "fr-courtiers-pro-dcr-corse@socgen.com"
+},
+{
+  "AGENCES": "AJACCIO CASTEL VECCHIO",
+  "Adresse_mail": "fr-courtiers-pro-dcr-corse@socgen.com"
+},
+{
+  "AGENCES": "ALBERT",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ALBERT GAMBETTA",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ALBERTVILLE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},
+{
+  "AGENCES": "ALBERTVILLE GRENETTE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},{
+  "AGENCES": "ABBEVILLE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ABBEVILLE LEJEUNE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ACHERES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-mantes-vallee-de-seine@socgen.com"
+},
+{
+  "AGENCES": "AGAY",
+  "Adresse_mail": "fr-courtiers-pro-dcr-toulon@socgen.com"
+},
+{
+  "AGENCES": "AGDE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+},
+{
+  "AGENCES": "AGDE RUE GRAND CAP",
+  "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+},
+{
+  "AGENCES": "AGEN",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+},
+{
+  "AGENCES": "AGEN SUD",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+},
+{
+  "AGENCES": "AGEN WILSON",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+},
+{
+  "AGENCES": "AGENCE DIRECTE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bobigny@socgen.com"
+},
+{
+  "AGENCES": "AIGUES MORTES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+},
+{
+  "AGENCES": "AIRE SUR LA LYS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-arras@socgen.com"
+},
+{
+  "AGENCES": "AIX COURS SEXTIUS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROV PUYRICARD",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE LUYNES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE MIRABEAU",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE OUEST",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE PASTEUR",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE RAFLE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX LA PIOLINE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX LES BAINS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},
+{
+  "AGENCES": "AIX LES BAINS CARNOT",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},
+{
+  "AGENCES": "AIX LES MILLES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX MIRABEAU",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX PROV LES MILLES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX SEXTIUS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIXE SUR VIENNE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-limoges@socgen.com"
+},
+{
+  "AGENCES": "AJACCIO",
+  "Adresse_mail": "fr-courtiers-pro-dcr-corse@socgen.com"
+},
+{
+  "AGENCES": "AJACCIO CASTEL VECCHIO",
+  "Adresse_mail": "fr-courtiers-pro-dcr-corse@socgen.com"
+},
+{
+  "AGENCES": "ALBERT",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ALBERT GAMBETTA",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ALBERTVILLE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},
+{
+  "AGENCES": "ALBERTVILLE GRENETTE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},{
+  "AGENCES": "ABBEVILLE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ABBEVILLE LEJEUNE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ACHERES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-mantes-vallee-de-seine@socgen.com"
+},
+{
+  "AGENCES": "AGAY",
+  "Adresse_mail": "fr-courtiers-pro-dcr-toulon@socgen.com"
+},
+{
+  "AGENCES": "AGDE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+},
+{
+  "AGENCES": "AGDE RUE GRAND CAP",
+  "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+},
+{
+  "AGENCES": "AGEN",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+},
+{
+  "AGENCES": "AGEN SUD",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+},
+{
+  "AGENCES": "AGEN WILSON",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bordeaux@socgen.com"
+},
+{
+  "AGENCES": "AGENCE DIRECTE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-bobigny@socgen.com"
+},
+{
+  "AGENCES": "AIGUES MORTES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-montpellier@socgen.com"
+},
+{
+  "AGENCES": "AIRE SUR LA LYS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-arras@socgen.com"
+},
+{
+  "AGENCES": "AIX COURS SEXTIUS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROV PUYRICARD",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE LUYNES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE MIRABEAU",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE OUEST",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE PASTEUR",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX EN PROVENCE RAFLE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX LA PIOLINE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX LES BAINS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},
+{
+  "AGENCES": "AIX LES BAINS CARNOT",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},
+{
+  "AGENCES": "AIX LES MILLES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX MIRABEAU",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX PROV LES MILLES",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIX SEXTIUS",
+  "Adresse_mail": "fr-courtiers-pro-dcr-aix-en-provence@socgen.com"
+},
+{
+  "AGENCES": "AIXE SUR VIENNE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-limoges@socgen.com"
+},
+{
+  "AGENCES": "AJACCIO",
+  "Adresse_mail": "fr-courtiers-pro-dcr-corse@socgen.com"
+},
+{
+  "AGENCES": "AJACCIO CASTEL VECCHIO",
+  "Adresse_mail": "fr-courtiers-pro-dcr-corse@socgen.com"
+},
+{
+  "AGENCES": "ALBERT",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ALBERT GAMBETTA",
+  "Adresse_mail": "fr-courtiers-pro-dcr-amiens@socgen.com"
+},
+{
+  "AGENCES": "ALBERTVILLE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+},
+{
+  "AGENCES": "ALBERTVILLE GRENETTE",
+  "Adresse_mail": "fr-courtiers-pro-dcr-annecy@socgen.com"
+}]
