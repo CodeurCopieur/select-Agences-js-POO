@@ -1,0 +1,73 @@
+.stl_section {
+  background-color: #f5f5f5; /* Couleur de fond légère */
+  padding: 40px 0; /* Espacement autour de la section */
+}
+
+.stl_layout {
+  max-width: 1200px; /* Largeur maximale de la mise en page */
+  margin: 0 auto; /* Centrage */
+  padding: 0 20px; /* Padding pour ne pas coller aux bords */
+}
+
+.stl_title {
+  color: #333; /* Couleur du texte pour les titres */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Police de caractères */
+  margin-bottom: 20px; /* Espacement après les titres */
+}
+
+.stl_title--2 {
+  font-size: 24px; /* Taille de police pour les titres de niveau 2 */
+  font-weight: 600; /* Poids de la police */
+  text-align: center; /* Alignement du texte */
+  line-height: 1.4; /* Hauteur de ligne */
+}
+
+.stl_title--3 {
+  font-size: 20px; /* Taille de police pour les titres de niveau 3 */
+  font-weight: 500; /* Poids de la police */
+  margin-top: 30px; /* Espacement au-dessus */
+}
+
+.stl_baseline {
+  color: #666; /* Couleur du texte pour le sous-titre */
+  font-size: 16px; /* Taille de police pour le paragraphe */
+  max-width: 800px; /* Largeur maximale */
+  margin: 0 auto 30px; /* Centrage et espacement */
+  text-align: center; /* Alignement du texte */
+}
+
+.stl_section-carte-france {
+  display: flex; /* Flexbox pour l'alignement */
+  justify-content: center; /* Centrage horizontal */
+  align-items: center; /* Centrage vertical */
+  margin-bottom: 30px; /* Espacement en dessous */
+}
+
+.stl_select-wrapper {
+  position: relative; /* Positionnement relatif pour le style personnalisé du select */
+  margin-bottom: 20px; /* Espacement en dessous */
+}
+
+.stl_select {
+  width: 100%; /* Pleine largeur */
+  padding: 10px; /* Padding pour l'expansion */
+  border: 1px solid #ccc; /* Bordure */
+  border-radius: 5px; /* Bordures arrondies */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Police de caractères */
+  font-size: 16px; /* Taille de la police */
+}
+
+.resultat {
+  text-align: center; /* Centrage du texte pour les résultats */
+}
+
+.email {
+  color: #007bff; /* Couleur du lien email */
+  font-size: 16px; /* Taille de la police */
+  font-weight: 400; /* Poids de la police */
+}
+
+.mw-800 {
+  max-width: 800px; /* Largeur maximale de 800px */
+  margin: 0 auto; /* Centrage */
+}
